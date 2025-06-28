@@ -6,7 +6,7 @@ This repository is for testing something else.
 
 1. Clone the repository using the following command:
    ```
-   git clone https://github.com/your-username/testing-something-else.git
+   git clone https://github.com/Leumas-Tech/testing-something-else.git
    ```
 
 2. Navigate to the project directory:
